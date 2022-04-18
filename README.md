@@ -6,7 +6,7 @@ The reserach topic focuses on whether gathering opinions regarding conducting vi
 
 ## checkpoint 2 instruction
 
-Create a video submission that
+Create a video submission on YouTube
 - Run the project and show how it works
 - Detail how the related experiment of the project work
 - Describe the unfinisehd part of the project at the time of the video's submission
