@@ -2,13 +2,28 @@
 
 ## Introduction
 
-The reserach topic focuses on whether gathering opinions regarding conducting virtual reality open house or apartment tour. The objective is to see whether people will prefer conducting VR tour as oppose to real world tour through a series of experimental tour in VR.
+This experiment for my 464 final project is testing the functionality of conducting an
+open house using Virtual Reality. You will tour the environment without a headset first then
+perform the same tour using an Oculus VR headset (Rift S, Quest, Quest 2). The map represents
+a suburban neighborhood built near a forest. In front of you are three explorable house, your
+are free to explore the open environment and within the three houses designated by the play
+box. Your only objective is to explore your environment and the inside of the three houses. The
+designated play is depicted in the image below. 
 
-## checkpoint 2 instruction
+## Experiment
 
-Create a video submission on YouTube
-- Run the project and show how it works
-- Detail how the related experiment of the project work
-- Describe the unfinisehd part of the project at the time of the video's submission
-- Describe how the code was written
-- The objective of the project
+Instruction
+- Open up the Unity Project called “CS 464 Project - Housing VR Tour” in Unity Hub which should take you to one of the three scenes in Unity which are called “Base Environment”, “Non VR tour” and “VR tour”
+- Select the Scene “Non VR tour” in the “Scenes” folder and press play
+- Walk around the “Non VR tour” scene and explore the three houses in front of you for
+five minutes
+- After the five minutes time is up, press the play button again to exit gameplay
+- Now open up the questionnaire and answer all the question in section 2 titled “Questions regarding the Non Virtual reality Application”
+- After you have filled out the question, press next and go back to Unity
+- This time you are to open the “VR tour” scene and follow the same steps you did for the
+“Non VR tour” scene
+- After the five minutes time in VR is up, open up the questionnaire and answer all of the questions for the rest of the questionnaire.
+- Submit the questionnaire upon completion
+
+
+
