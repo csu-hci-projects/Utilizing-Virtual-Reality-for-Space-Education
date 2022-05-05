@@ -7,8 +7,10 @@ open house using Virtual Reality. You will tour the environment without a headse
 perform the same tour using an Oculus VR headset (Rift S, Quest, Quest 2). The map represents
 a suburban neighborhood built near a forest. In front of you are three explorable house, your
 are free to explore the open environment and within the three houses designated by the play
-box. Your only objective is to explore your environment and the inside of the three houses. The
-designated play is depicted in the image below. 
+box. The only objective is to explore your environment and the inside of the three houses. The
+designated play is depicted in the image below
+
+
 
 ## Experiment
 
