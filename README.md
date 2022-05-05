@@ -1,5 +1,9 @@
 # Research Experiment to observe people's opinion on conducting virtual reality tour on a real estate property.
 
+## Links and URL
+- Youtube Video: ![Youtube Video](https://www.youtube.com/watch?v=pwZpJzpE2lQ)
+- Website: 
+
 ## Introduction
 
 This experiment for my 464 final project is testing the functionality of conducting an
