@@ -1,7 +1,7 @@
 # Research Experiment to observe people's opinion on conducting virtual reality tour on a real estate property.
 
 ## Links and URL
-- Video (Make it a .mp4): ![Completed House Tour](https://www.youtube.com/watch?v=pwZpJzpE2lQ)
+- YouTube Video: [![IMAGE ALT TEXT HERE](/images/Open_Environment.png)](https://www.youtube.com/watch?v=Rf8LAYJSOL8)
 - Website: 
 
 ## Introduction
