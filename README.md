@@ -3,8 +3,8 @@
 ## Links and URL
 
 FIXME: YouTube links lead to Marvel Trailer
-- YouTube Video: [![YouTube video](/images/Open_Environment.png)](https://www.youtube.com/watch?v=Rf8LAYJSOL8)
-- Website: [![CS464 final project website](/images/Website_Page.png)](https://sites.google.com/rams.colostate.edu/cs464-final-project-website/home?authuser=2)
+- OVERVIEW YouTube Video: https://www.youtube.com/watch?v=Rf8LAYJSOL8
+- Website: https://sites.google.com/rams.colostate.edu/cs464-final-project-website/home?authuser=2
 
 ## Introduction
 
