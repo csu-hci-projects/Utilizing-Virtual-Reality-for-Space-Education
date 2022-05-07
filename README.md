@@ -1,8 +1,6 @@
 # Research Experiment to observe people's opinion on conducting virtual reality tour on a real estate property.
 
-## Links and URL
-
-FIXME: YouTube links lead to Marvel Trailer
+## Links
 - 5 Minutes OVERVIEW YouTube Video: https://youtu.be/5CWURYMElfk
 - PRESENTATION YouTube Video: https://youtu.be/arAXMVAYnZc
 - Website: https://sites.google.com/rams.colostate.edu/cs464-final-project-website/home?authuser=2
